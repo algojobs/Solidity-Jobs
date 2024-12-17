@@ -1,6 +1,6 @@
 # Solidity Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Solidity Jobs](https://algojobs.io/jobs/solidity)
 
@@ -53,7 +53,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/31/2024 | [Senior Backend Engineer, Unichain](https://algojobs.io/jobs/2112319) | [Uniswap Labs](https://algojobs.io/company/uniswaplabs/) | $210K - $232K | New York or US-based Remote  |
 | 10/30/2024 | [Senior Backend Engineer (Protocol Dev)](https://algojobs.io/jobs/2102252) | [Eigen Labs](https://algojobs.io/company/eigenlabs/) | $200K - $250K | Remote, Seattle, Washington, United States |
 | 10/30/2024 | [Staff Software Engineer, Bridge](https://algojobs.io/jobs/2102254) | [Ava Labs](https://algojobs.io/company/avalabs/) | $190K - $238K | New York, NY |
-| 10/28/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2089296) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | Merrimack, NH / Boston, MA |
 | 10/28/2024 | [Senior Developer Relations Engineer](https://algojobs.io/jobs/2085475) | [RISC Zero](https://algojobs.io/company/risczero/) | N/A | US (Remote) |
 | 10/26/2024 | [Senior Fullstack Engineer (Frontend Leaning)](https://algojobs.io/jobs/2074206) | [Base.org Careers Page](https://algojobs.io/company/basejobs/) | $180K - $212K | USA (Remote) |
 | 10/25/2024 | [Intern Smart Contract Developer](https://algojobs.io/jobs/2223464) | [Hyphen Connect Limited](https://algojobs.io/company/hyphenconnect/) | N/A | China |
@@ -64,10 +63,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/24/2024 | [Backend Engineer](https://algojobs.io/jobs/2064714) | [Seedify](https://algojobs.io/company/seedify-fund/) | N/A | India (Remote) |
 | 10/23/2024 | [Intern Smart Contract Developer](https://algojobs.io/jobs/2223476) | [Hyphen Connect Limited](https://algojobs.io/company/hyphenconnect/) | N/A | Taiwan |
 | 10/23/2024 | [Software Engineer Intern](https://algojobs.io/jobs/2047611) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $50 - $50 | San Francisco, CA |
-| 10/18/2024 | [Web Frontend Developer](https://algojobs.io/jobs/2018667) | [Orderly Network](https://algojobs.io/company/orderlynetwork/) | N/A | Anywhere |
-| 10/18/2024 | [Senior Developer Relations Engineer](https://algojobs.io/jobs/2029302) | [Nomic Foundation](https://algojobs.io/company/nomic.foundation/) | N/A | Remote |
-| 10/18/2024 | [Blockchain Developer](https://algojobs.io/jobs/2026364) | [Nibiru](https://algojobs.io/company/nibiru/) | N/A | Remote - Anywhere |
-| 10/17/2024 | [RF Software Engineer (Starshield)](https://algojobs.io/jobs/2019448) | [SpaceX](https://algojobs.io/company/spacex/) | $120K - $145K | Hawthorne, CA |
-| 10/16/2024 | [Staff Software Engineer - MetaMask](https://algojobs.io/jobs/2008913) | [Consensys](https://algojobs.io/company/consensys/) | $138K - $207K | UNITED STATES - Remote |
-| 10/16/2024 | [Web3 Software Engineer](https://algojobs.io/jobs/1999074) | [Ready Player Me](https://algojobs.io/company/readyplayerme/) | N/A | Estonia, Germany, Spain, UK |
-| 10/16/2024 | [Senior Software Engineer, Backend (Developer - Onchain Payments)](https://algojobs.io/jobs/2000117) | [Coinbase Developer Platform](https://algojobs.io/company/cdpjobs/) | $180K - $212K | USA (Remote) |
