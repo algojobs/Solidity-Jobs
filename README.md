@@ -1,11 +1,26 @@
 # Solidity Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/11/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Solidity Jobs](https://algojobs.io/jobs/solidity)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 02/10/2025 | [Software Engineer - Confidential Computing](https://algojobs.io/jobs/3107403) | [Nethermind](https://algojobs.io/company/nethermind/) | N/A | Remote, Worldwide |
+| 02/10/2025 | [Fullstack Engineer](https://algojobs.io/jobs/3108750) | [Kiln](https://algojobs.io/company/kiln.fi/) | N/A | Paris \| Remote France |
+| 02/07/2025 | [Senior Software Engineer, Frontend (Institutional - Foundations)](https://algojobs.io/jobs/3092038) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
+| 02/07/2025 | [Software Engineer, Backend (Institutional - Foundations)](https://algojobs.io/jobs/3092035) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $154K - $154K | Remote - Canada |
+| 02/07/2025 | [Software Engineer, Backend (Institutional - Foundations)](https://algojobs.io/jobs/3092034) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
+| 02/07/2025 | [Frontend Software Engineer Intern, Stablecoin (Summer 2025)](https://algojobs.io/jobs/3091482) | [Ripple ](https://algojobs.io/company/ripple/) | $36 - $38 | New York, NY, United States |
+| 02/07/2025 | [Software Engineer Intern, Stablecoin (Summer 2025)](https://algojobs.io/jobs/3091490) | [Ripple ](https://algojobs.io/company/ripple/) | $36 - $38 | New York, NY, United States |
+| 02/07/2025 | [Senior Fullstack Developer](https://algojobs.io/jobs/3091379) | [Nomiso](https://algojobs.io/company/nomiso/) | N/A | Bangalore, India |
+| 02/06/2025 | [Senior Software Engineer, Blockchain](https://algojobs.io/jobs/3076407) | [FalconX](https://algojobs.io/company/falconx/) | $156K - $224K | San Francisco Bay Area, New York City |
+| 02/06/2025 | [Senior Software Engineer, Observability](https://algojobs.io/jobs/3076758) | [SSV Labs](https://algojobs.io/company/bloxstaking/) | N/A | Remote |
+| 02/06/2025 | [Software Engineer, Banking & Capital Markets](https://algojobs.io/jobs/3078806) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | United Kingdom / Remote |
+| 02/06/2025 | [Principal Developer Relations Engineer - Venture Studio](https://algojobs.io/jobs/3055978) | [Moonsong Labs](https://algojobs.io/company/moonsong-labs/) | N/A | London (Remote) |
+| 02/06/2025 | [Developer Advocate - Education](https://algojobs.io/jobs/3078664) | [Solana Foundation](https://algojobs.io/company/solana-foundation/) | N/A | US (Remote) |
+| 02/05/2025 | [Software Engineer](https://algojobs.io/jobs/3058239) | [Textile](https://algojobs.io/company/textileio/) | N/A | Remote |
+| 02/05/2025 | [Software Engineer (Temp)](https://algojobs.io/jobs/3055722) | [Everclear](https://algojobs.io/company/connext-network/) | N/A | US Time Zone (Remote) |
 | 02/03/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3033571) | [Eco Inc. ](https://algojobs.io/company/ecoinc/) | N/A | Remote (US or Canada) |
 | 02/03/2025 | [Senior Fullstack Engineer - Metamask (Portfolio)](https://algojobs.io/jobs/3031952) | [Consensys](https://algojobs.io/company/consensys/) | $138K - $160K | UNITED STATES - Remote, LATAM - Remote, CANADA - Remote, EMEA - Remote |
 | 02/01/2025 | [Senior Software Engineer, Infrastructure (Networking)](https://algojobs.io/jobs/3016644) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
@@ -32,20 +47,20 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/22/2025 | [Senior Backend Engineer (Solana)](https://algojobs.io/jobs/2917722) | [LI.FI](https://algojobs.io/company/li.fi/) | N/A | Remote EMEA |
 | 01/21/2025 | [Backend Engineer, AVS Platform](https://algojobs.io/jobs/2900755) | [Eigen Labs](https://algojobs.io/company/eigenlabs/) | $175K - $225K | Remote, Seattle, Washington, United States |
 | 01/21/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2899623) | [Aurora Labs](https://algojobs.io/company/aurora-dev/) | N/A | Remote |
+| 01/20/2025 | [Software Engineer, Backend - Consumer Products](https://algojobs.io/jobs/2891109) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - UK |
 | 01/20/2025 | [Software Engineer - C++ Generalist](https://algojobs.io/jobs/2891490) | [Aztec](https://algojobs.io/company/aztec/) | N/A | London \| US Based Remote |
 | 01/18/2025 | [Staff Software Engineer, Banking & Capital Markets](https://algojobs.io/jobs/2882768) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | Argentina / Remote |
 | 01/17/2025 | [Senior Software Engineer - Java](https://algojobs.io/jobs/2883067) | [Newfold Digital](https://algojobs.io/company/web/) | N/A | Ontario, Canada - Remote / Quebec, Canada - Remote |
-| 01/16/2025 | [Developer Relations Engineer, AvaCloud](https://algojobs.io/jobs/2860678) | [Ava Labs](https://algojobs.io/company/avalabs/) | $116K - $145K | Brooklyn, NY or Remote (North America) |
 | 01/16/2025 | [Senior Software Engineer - BitVM Bridge](https://algojobs.io/jobs/2864433) | [Babylon Labs](https://algojobs.io/company/babylonlabs/) | N/A | Europe |
 | 01/15/2025 | [Senior Software Engineer, Backend (Institutional - Trading Derivatives)](https://algojobs.io/jobs/2848104) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
-| 01/15/2025 | [Senior Software Engineer, Backend - Institutional Products](https://algojobs.io/jobs/2848098) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
+| 01/15/2025 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://algojobs.io/jobs/2848099) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
 | 01/15/2025 | [Senior Software Engineer, Javascript (Web3 Smart Wallet)](https://algojobs.io/jobs/2847579) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | Vienna, Vienna, Austria |
+| 01/15/2025 | [Senior Software Engineer, Backend (Institutional - Exchange)](https://algojobs.io/jobs/2833028) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
 | 01/14/2025 | [Software Engineer](https://algojobs.io/jobs/2816870) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $124K - $147K | Remote - Canada |
 | 01/14/2025 | [Software Engineer, Backend (Consumer - Coinbase Card)](https://algojobs.io/jobs/2816866) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $147K - $174K | USA (Remote) |
 | 01/14/2025 | [Senior Software Engineer, Backend (Consumer - Coinbase Card)](https://algojobs.io/jobs/2816864) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $180K - $212K | USA (Remote) |
 | 01/10/2025 | [Senior Software Engineer, Non-EVM Integrations](https://algojobs.io/jobs/2802661) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | United States / Remote |
 | 01/09/2025 | [Fullstack Engineer - Metamask](https://algojobs.io/jobs/2785107) | [Consensys](https://algojobs.io/company/consensys/) | N/A | EMEA - Remote |
-| 01/09/2025 | [Software Engineer, Banking & Capital Markets](https://algojobs.io/jobs/2787954) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | United Kingdom / Remote |
 | 01/09/2025 | [Developer Relations Engineer - Crypto & AI (Hungary - Remote)](https://algojobs.io/jobs/2783846) | [Token Metrics](https://algojobs.io/company/tokenmetrics/) | N/A | Budapest (Remote) |
 | 01/09/2025 | [Developer Relations Engineer - Crypto & AI (Lima - Remote)](https://algojobs.io/jobs/2783847) | [Token Metrics](https://algojobs.io/company/tokenmetrics/) | N/A | Lima (Remote) |
 | 01/09/2025 | [Developer Relations Engineer - Crypto & AI (Jakarta - Remote)](https://algojobs.io/jobs/2783848) | [Token Metrics](https://algojobs.io/company/tokenmetrics/) | N/A | Jakarta (Remote) |
@@ -70,7 +85,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/02/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2714502) | [Polygon Labs](https://algojobs.io/company/polygon-labs/) | N/A | Remote |
 | 12/31/2024 | [Backend C# Software Engineer (Senior)](https://algojobs.io/jobs/2693563) | [First Digital Trust](https://algojobs.io/company/firstdigitaltrust/) | N/A | Hong Kong |
 | 12/31/2024 | [Blockchain Developer](https://algojobs.io/jobs/2694289) | [OKX](https://algojobs.io/company/okx/) | N/A | Singapore, Singapore |
-| 12/24/2024 | [FullStack Developer](https://algojobs.io/jobs/2675822) | [Kiln](https://algojobs.io/company/kiln.fi/) | N/A | Paris \| Onsite |
 | 12/20/2024 | [Software Engineer, Backend - (Blockchain Platform Wallet Team)](https://algojobs.io/jobs/2652763) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $147K - $174K | USA (Remote) |
 | 12/20/2024 | [Software Engineer](https://algojobs.io/jobs/2640470) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $149K - $149K | Remote - Canada |
 | 12/19/2024 | [Software Engineer](https://algojobs.io/jobs/2640473) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $124K - $147K | USA (Remote) |
@@ -79,15 +93,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/18/2024 | [Developer Relations Engineer, Europe](https://algojobs.io/jobs/2626790) | [Ava Labs](https://algojobs.io/company/avalabs/) | $116K - $145K | Remote (Europe) |
 | 12/18/2024 | [Backend Engineer](https://algojobs.io/jobs/2629174) | [Magic Eden](https://algojobs.io/company/magiceden/) | N/A | Beijing |
 | 12/17/2024 | [Junior Embedded Developer](https://algojobs.io/jobs/2614833) | [Nethermind](https://algojobs.io/company/nethermind/) | N/A | Edinburgh, On-site  |
-| 12/12/2024 | [Software Engineer, Javascript (Web3 Smart Wallet)](https://algojobs.io/jobs/2573356) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | Vienna, Vienna, Austria |
-| 12/12/2024 | [Senior Developer Relations Engineer](https://algojobs.io/jobs/2575987) | [Nexus](https://algojobs.io/company/nexus.xyz/) | N/A | San Francisco |
-| 12/11/2024 | [Senior Software Engineer (Passport)](https://algojobs.io/jobs/2560342) | [Immutable](https://algojobs.io/company/immutable/) | N/A | Australia (Hybrid) |
-| 12/11/2024 | [Backend Engineer, China Team](https://algojobs.io/jobs/2563162) | [Magic Eden](https://algojobs.io/company/magiceden/) | N/A | China |
-| 12/10/2024 | [DeFi Strategy Developer - Asia](https://algojobs.io/jobs/2534085) | [Auros](https://algojobs.io/company/aurosglobal/) | N/A | Remote - Asia |
-| 12/10/2024 | [Senior Software Engineer, Non-EVM](https://algojobs.io/jobs/2550145) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | United States / Remote |
-| 12/10/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2550148) | [Polygon Labs](https://algojobs.io/company/polygon-labs/) | N/A | Remote |
-| 12/10/2024 | [Senior Fullstack Software Engineer](https://algojobs.io/jobs/2547106) | [Legitimate](https://algojobs.io/company/legitimatetech/) | N/A | New York, NY (Remote) |
-| 12/10/2024 | [Senior FullStack Developer](https://algojobs.io/jobs/2550002) | [Kiln](https://algojobs.io/company/kiln.fi/) | N/A | Paris \| Onsite |
-| 12/09/2024 | [Staff Software Engineer, Backend - Crypto Data Foundations](https://algojobs.io/jobs/2534935) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $211K - $211K | Remote - Canada |
-| 12/09/2024 | [Staff Software Engineer, Backend - Crypto Data Foundations](https://algojobs.io/jobs/2534936) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $211K - $249K | USA (Remote) |
-| 12/09/2024 | [Principal EVM Software Engineer - Smart Contracts Team](https://algojobs.io/jobs/2535669) | [Hashgraph](https://algojobs.io/company/swirlds/) | N/A | Remote within the US |
