@@ -1,11 +1,13 @@
 # Solidity Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Solidity Jobs](https://algojobs.io/jobs/solidity)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Senior Developer](https://algojobs.io/jobs/3643110) | [iA Financial Group](https://algojobs.io/company/ia/) | N/A | Albuquerque, New Mexico / Tampa, Florida / Austin, Texas / ... |
+| 03/30/2025 | [Software Engineer - Layer 1](https://algojobs.io/jobs/3636152) | [Nexus](https://algojobs.io/company/nexus.xyz/) | N/A | San Francisco |
 | 03/27/2025 | [Senior Software Engineer, Backend (Platform - Crypto Data Foundations)](https://algojobs.io/jobs/3595905) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
 | 03/26/2025 | [Senior Software Engineer, Infrastructure (Platform - Observability)](https://algojobs.io/jobs/3583489) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $180K - $212K | USA (Remote) |
 | 03/25/2025 | [Senior Software Engineer, Backend (Consumer)](https://algojobs.io/jobs/3583483) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Berlin, Germany |
@@ -93,6 +95,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/03/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3033571) | [Eco Inc. ](https://algojobs.io/company/ecoinc/) | N/A | Remote (US or Canada) |
 | 02/03/2025 | [Senior Front End Software Engineer](https://algojobs.io/jobs/3309408) | [Halliday](https://algojobs.io/company/halliday/) | $150K - $250K | San Francisco  |
 | 02/01/2025 | [Senior Software Engineer, Infrastructure (Networking)](https://algojobs.io/jobs/3016644) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
-| 01/30/2025 | [Senior Software Engineer, Backend (Developer - Onramp)](https://algojobs.io/jobs/3002505) | [Coinbase Developer Platform](https://algojobs.io/company/cdpjobs/) | $186K - $218K | USA (Remote) |
-| 01/30/2025 | [Staff Software Security Engineer - Web 3.0 (f/m)](https://algojobs.io/jobs/3000811) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France |
-| 01/29/2025 | [Web3 Technical Lead (Fullstack)](https://algojobs.io/jobs/3336008) | [Legitimate](https://algojobs.io/company/legitimatetech/) | $180K - $230K | New York, NY (Remote) |
